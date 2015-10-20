@@ -1,2 +1,2 @@
 # Horoof
-Convert number to horoof with (adjective and ordinal number)(just for iranian)
+Convert number to horoof with adjective and ordinal number converter(just for iranian)
