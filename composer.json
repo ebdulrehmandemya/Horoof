@@ -1,0 +1,25 @@
+{
+  "name": "dahatu/horoof",
+  "type": "dahatu-package",
+  "description": "Convert number to horoof with adjective and ordinal number converter(just for iranian)",
+  "keywords": [
+    "horoof",
+    "number to horoof" ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "abdolrahman damia",
+      "email": "abdolrahmandamia@yahoo.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Dahatu\\Horoof\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.0"
+    }
+  }
+}
